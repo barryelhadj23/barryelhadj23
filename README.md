@@ -14,7 +14,7 @@ My goal is to contribute to the world of technology by developing cutting-edge a
 
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📫 How to reach me: **your.elhadjbarry2021@gmail.com**
+- 📫 How to reach me: **elhadjbarry2021@gmail.com**
 ### Profile views:
 ![](https://komarev.com/ghpvc/?username=barryelhadj23&label=PROFILE+VIEWS)
 
